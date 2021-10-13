@@ -137,7 +137,7 @@ let passingScore = 7
 
 */
 
-// var changeMyMind = false
+// var changeMyMind = true
 
 // if (changeMyMind === true) {
 //   changeMyMind = false
@@ -151,11 +151,9 @@ let passingScore = 7
 
 // var changeMyMind = false
 
-// if (changeMyMind === true) {
+// if (changeMyMind !== true) {
 //   changeMyMind = true
-// } else if (changeMyMind != true) {
-//   changeMyMind = true
-// }
+// } 
 
 // console.log(changeMyMind)
 
